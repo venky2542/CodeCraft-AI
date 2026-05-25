@@ -1,0 +1,8 @@
+{
+  "name": "CodeCraft AI",
+  "description": "AI-Powered Code Review Assistant that analyzes code files or snippets for logic bugs, security vulnerabilities, and performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
